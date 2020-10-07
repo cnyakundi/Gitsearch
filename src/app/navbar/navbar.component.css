@@ -1,0 +1,20 @@
+.navbar-dark a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 14px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+* {box-sizing: border-box;}
+
+.navbar-dark {
+    overflow: hidden;
+    background-color: pink;
+}
+
+.navbar-nav {
+    color: dodgerblue;
+}

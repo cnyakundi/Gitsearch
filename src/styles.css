@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+img {
+    border-radius: 50%;
+    height: 200px;
+  }
+
+body {
+    background-color: rgb(101, 145, 180);
+} 
