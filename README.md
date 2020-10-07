@@ -8,9 +8,16 @@ This project was generated with Angular CLI version 10.1.1.
 
 This is an angular application that allows a user to search for github users by entering their usernames on the search bar
 
+## User Requirements
+
+* The application allows users to be able to:
+    - Search for Github users and their repositories
+    - View their profiles, number of repositories, number of followers and number of people they are following
+    - navigate to their github profile by clicking on their usernames
+
 ## Setup/Installations
 
-* Clone this project from 
+* Clone this project from https://github.com/cnyakundi/github-search.git
 * Run npm install to remove json errors that come with the project clone
 * Run ng serve for a dev server
 
