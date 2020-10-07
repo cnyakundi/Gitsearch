@@ -23,4 +23,6 @@ This is an angular application that allows a user to search for github users by 
 
 ## Support and contact details
 
+For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at cnyakundi@gmail.com
+
 
